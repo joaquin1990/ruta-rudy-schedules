@@ -1,0 +1,24 @@
+--------------------------------------------------
+- VISTAS DE LA APLICACION:
+
+1 - Vista Principal (Armar equipo, Esquema semanal)
+    1.1 Armar equipo (Disponibilidades Personas)
+    1.2 Esquema semanal (cantidad de turnos, horarios de los turnos). 
+
+2 - Armar Semana (Semana con todos los dias y listas desplegables para ir colocando a los miembros del equipo)
+
+3 - Semana terminada (Con resumen del saldo de horas semanales y mensuales de cada persona)
+
+** Ver cantidad de vistas por punto (ej. en disponibilidades de personas serian aprox 5)
+** Tendriamos ademas que tener en cuenta que en la vista principal se pueda editar a los integrantes del equipo de una forma sencilla. 
+--------------------------------------------------
+- LOGICA DE LA APLICACION:
+
+ 1 - Esquema semanal (dias de la semana, sus turnos con horarios, turnos especiales)
+
+ 2 - Disponibilidades personas (disponibilidades semanales, turnos especiales, carga horaria semanal)
+
+
+
+ 
+
